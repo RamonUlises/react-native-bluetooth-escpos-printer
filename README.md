@@ -14,7 +14,7 @@ Any questions or bug please raise a issue.
 ### Installation
 install via github
 ```bash
-npm install https://github.com/detanx/react-native-bluetooth-escpos-printer.git --save
+npm install https://github.com/RamonUlises/react-native-bluetooth-escpos-printer.git --save
 ```
 ### Manual linking (Android)
 1. You should use `expo eject` to get android folder.
